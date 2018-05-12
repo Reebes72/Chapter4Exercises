@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4Exercises", "Chapter4Exercises\Chapter4Exercises.csproj", "{AFB2D22D-7DF7-4AB1-92BB-FFC8CA51FC9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountClassModification4.9", "Chapter4Exercises\AccountClassModification4.9.csproj", "{AFB2D22D-7DF7-4AB1-92BB-FFC8CA51FC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceClass4.10", "InvoiceClass4.10\InvoiceClass4.10.csproj", "{28AB9C60-DEBD-425A-AFD1-D460C54C60A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AFB2D22D-7DF7-4AB1-92BB-FFC8CA51FC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFB2D22D-7DF7-4AB1-92BB-FFC8CA51FC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFB2D22D-7DF7-4AB1-92BB-FFC8CA51FC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28AB9C60-DEBD-425A-AFD1-D460C54C60A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AB9C60-DEBD-425A-AFD1-D460C54C60A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AB9C60-DEBD-425A-AFD1-D460C54C60A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AB9C60-DEBD-425A-AFD1-D460C54C60A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

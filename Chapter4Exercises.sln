@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountClassModification4.9
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvoiceClass4.10", "InvoiceClass4.10\InvoiceClass4.10.csproj", "{28AB9C60-DEBD-425A-AFD1-D460C54C60A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeClass411", "EmployeeClass411\EmployeeClass411.csproj", "{8753F3B1-DD9E-4807-9BBC-BC4148FBEF2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeClass411", "EmployeeClass411\EmployeeClass411.csproj", "{8753F3B1-DD9E-4807-9BBC-BC4148FBEF2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateClass", "DateClass\DateClass.csproj", "{90951E48-F308-4166-AC57-57228CB4FE66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateClass", "DateClass\DateClass.csproj", "{90951E48-F308-4166-AC57-57228CB4FE66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateCodeinMain", "RemoveDuplicateCodeinMain\RemoveDuplicateCodeinMain.csproj", "{18B1EF99-4F24-46D0-BC17-419DB9717790}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicateCodeinMain", "RemoveDuplicateCodeinMain\RemoveDuplicateCodeinMain.csproj", "{18B1EF99-4F24-46D0-BC17-419DB9717790}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetHeartRateCalculator414", "TargetHeartRateCalculator414\TargetHeartRateCalculator414.csproj", "{0F99536D-9E07-4FE1-ABEC-B2E87EE463F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TargetHeartRateCalculator414", "TargetHeartRateCalculator414\TargetHeartRateCalculator414.csproj", "{0F99536D-9E07-4FE1-ABEC-B2E87EE463F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerizationOfHealthRecords415", "ComputerizationOfHealthRecords415\ComputerizationOfHealthRecords415.csproj", "{7B514F3B-9D6D-4B51-AB3D-061C6680ABDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0F99536D-9E07-4FE1-ABEC-B2E87EE463F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F99536D-9E07-4FE1-ABEC-B2E87EE463F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F99536D-9E07-4FE1-ABEC-B2E87EE463F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B514F3B-9D6D-4B51-AB3D-061C6680ABDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B514F3B-9D6D-4B51-AB3D-061C6680ABDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B514F3B-9D6D-4B51-AB3D-061C6680ABDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B514F3B-9D6D-4B51-AB3D-061C6680ABDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
